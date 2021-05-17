@@ -18,11 +18,13 @@
 - Players take turns taking a die and using it to place a terrain feature according to the Terrain Placement Chart, until 10 features have been placed.
 
 | Scenario Table |
-| Earth  | |
-| Heaven | |
-| Fire   | |
-| Shadow | |
-| Iron   | |
+| Earth  | Take and Hold | 3 Objectives in middle, which award a point for being controlled every Night. First to 10 wins. |
+| Heaven | Lightning Strike | 2 Objectives in middle, which award a point per Night controlled every Night. First to 10 wins. |
+| Fire   | Pierce | First to have a unit leave the table on their opponent's Home Side wins. |
+| Shadow | Ambush | Players have 2 Home Sides in an L. An Objective is in the middle. Every third Night, if someone controls the objective, they win. |
+| Iron   | Frontal assault | An Objective on the middle of each Player's Side. Whenever any player controls both objectives, they win. |
+| Ever-Changing Wind | Treasure Hunt | 3 Treasures in the middle that may be picked up. First player to carry 2 out through their Home Side wins. |
+| Tie | Crossroads | 4 Objectives in the middle of each quadrant. First player to control 3 wins. |
 
 | Terrain Placement Chart |
 | Earth  | Hill                             |
@@ -30,11 +32,3 @@
 | Fire   | Dangerous terrain (rubble, lava) |
 | Shadow | Obscuring terrain (forest) |
 | Iron   | Blocking terrain (buildings, ruins) |
-
-
-| Objective Placement Chart |
-| Earth  | Take and Hold | Score 1 by controlling at Night |
-| Heaven | Treasure | Score 1 by holding it, by either controlling it at Night (and receiving it) or eliminating a unit within 5cm holding it |
-| Fire   | |
-| Shadow | Ritual | Score 1 by spending a Shadow or Fire with a unit controlling the objective |
-| Iron   | |
