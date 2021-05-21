@@ -7,17 +7,11 @@ Stats:
 - Guard 1
 
 Actions:
-- Earth: 
-- Heaven: Move and Shoot, or Shoot and Move
-- Fire: 
-- Shadow: 
-- Iron: 
+- Earth: Strike and Move
+- Heaven: Move and Shoot 20, or Shoot 20 and Move
+- Fire: Move
+- Shadow: Shoot 20
+- Iron: Move and Strike
 
 Abilities:
 - Shooting at range 20
-
-Equipment options:
-- Shields: gain "Earth or Iron: Hold Ground"
-- Heavy Weapons: +1 Additional Combat on a Charge
-- Javelins: Allows shooting at range 15
-
